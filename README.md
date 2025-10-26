@@ -8,7 +8,5 @@ Currently, I am doing my first rotation at Prof. Ari Elson lab where we are work
 
 ## Languages
 - Arabic (Native)
-  second line
 - English (Fluent)
-  third line
 - Hebrew (Fluent)

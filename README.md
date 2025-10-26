@@ -10,3 +10,5 @@ Currently, I am doing my first rotation at Prof. Ari Elson lab where we are work
 - Arabic (Native)
 - English (Fluent)
 - Hebrew (Fluent)
+
+![bioinformatics image]https://www.mayo.edu/-/media/kcms/gbs/research/images/2019/02/06/15/18/genetics-bioinformatics-shu-571040611-8col.jpg

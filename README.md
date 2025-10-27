@@ -12,3 +12,8 @@ Currently, I am doing my first rotation at Prof. Ari Elson lab where we are work
 - Hebrew (Fluent)
 
 ![bioinformatics image](https://www.icgeb.org/wp-content/uploads/2023/01/Genomic-analysis-488977381.png)
+
+
+## Windows
+
+

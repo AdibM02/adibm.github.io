@@ -1,8 +1,8 @@
 # Welcome to my github page
 
 ## Introduction
-I am Adib, MSc student at the Weizmann Institute of Science in life sciences.
-Currently, I am doing my first rotation at Prof. Ari Elson lab where we are working in osteoclasts and their involvement in bone pathologies.
+My name is Adib, and I am an M.Sc. student in Life Sciences at the Weizmann Institute of Science.
+I am currently doing my first rotation in Prof. Ari Elson’s lab, where we study osteoclasts and their role in bone pathologies.
 
 ---
 
@@ -15,8 +15,5 @@ Currently, I am doing my first rotation at Prof. Ari Elson lab where we are work
 
 
 ## Windows
-
-
-## windows 
 
 [Hello](./Hello.md)

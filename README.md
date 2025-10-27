@@ -14,6 +14,4 @@ I am currently doing my first rotation in Prof. Ari Elson’s lab, where we stud
 ![bioinformatics image](https://www.icgeb.org/wp-content/uploads/2023/01/Genomic-analysis-488977381.png)
 
 
-## Windows
-
 [Hello](./Hello.md)
